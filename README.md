@@ -38,6 +38,3 @@ I'm a 3rd-year English Translation &amp; Interpreting student — somewhere betw
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperktt&amp;layout=compact&amp;hide_border=true" height="165" />
 </p>
 
----
-
-<p align="center"><i>Not everything I ship is hand-typed — and that's fine.</i></p>
